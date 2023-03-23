@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/with-love/static/js/main.aadcb54f.js",
+    "static/js/787.887fb475.chunk.js": "/with-love/static/js/787.887fb475.chunk.js",
+    "index.html": "/with-love/index.html",
+    "main.aadcb54f.js.map": "/with-love/static/js/main.aadcb54f.js.map",
+    "787.887fb475.chunk.js.map": "/with-love/static/js/787.887fb475.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aadcb54f.js"
+  ]
+}
